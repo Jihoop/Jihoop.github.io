@@ -1,0 +1,27 @@
+body{
+    background:black;
+}
+h1{
+    color:darkgray;
+    font: size 30px;;
+    Font-family:'cursive'
+    
+}
+p{
+    width:700px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:black;
+    font-size:18px;
+    border: solid 3px;
+    border-color: darkgray;
+    color: darkgray;
+    font-family:'Times New Roman', Times, serif;
+}
+img{
+    float:right;
+        width: 500px;
+        height: 350px;
+        float: left;
+        margin-right: 20px;
+        border-radius: 20px;
+}
